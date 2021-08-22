@@ -17,7 +17,7 @@ html{
 }
     /* header starts */
 header{
-    background-image: url("images/pexels-photo-3769714.jpeg");
+    background-image: url("../images/pexels-photo-3769714.jpeg");
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
